@@ -1,4 +1,4 @@
-# Trabalho-individual-M3-JSON
+# Trabalho individual M3
 Servidor JSON
 
-Link: https://trabalho-json-m3.onrender.com/
+Link do JSON Online: https://trabalho-json-m3.onrender.com/
