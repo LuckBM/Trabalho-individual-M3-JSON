@@ -3,7 +3,7 @@
       {
         "id": 1,
         "estado": "sp",
-        "municipio": "são Paulo"
+        "municipio": "sao paulo"
       },
        {
         "id": 2,
@@ -29,26 +29,26 @@
       {
         "id": 1,
         "sala": "n 3d",
-        "valor":"R$ 30,00",
-        "local": "sp são paulo"
+        "valor":"30",
+        "local": "sp sao paulo"
       },
       
        {
         "id": 2,
         "sala": "g 3d",
-        "valor":"R$ 40,00",
-        "local": "sp são paulo"
+        "valor":"40",
+        "local": "sp sao paulo"
       },
        {
         "id": 1,
         "sala": "n 3d",
-        "valor":"R$ 25,00",
+        "valor":"25",
         "local": "sp sorocaba"
       },
        {
         "id": 1,
         "sala": "g 3d",
-        "valor":"R$ 30,00",
+        "valor":"30",
         "local": "rj rio de janeiro"
       }
       
@@ -61,30 +61,30 @@
     "catalogo": [
       {
         "id": 1,
-        "titulo": "Filme 1",
-         "sala": "G 3D",
-        "preço":"R$ 30,00"
+        "titulo": "filme 1",
+         "sala": "g 3d",
+        "precos":"30"
       },
       
        {
         "id": 2,
-        "titulo": "Filme 2",
-         "sala": "N 3D",
-        "sreço":"R$ 25,00"
+        "titulo": "filme 2",
+         "sala": "n 3d",
+        "precos":"25"
       },
       
        {
         "id": 3,
-        "titulo": "Filme 3",
-         "sala": "M 2D",
-        "preço":"R$ 35,00"
+        "titulo": "filme 3",
+         "sala": "m 2d",
+        "precos":"35"
       },
       
        {
         "id": 4,
-        "titulo": "Filme 4",
-         "sala": "VIP 3D",
-        "preço":"R$ 60,00" 
+        "titulo": "filme 4",
+         "sala": "vip 3d",
+        "precos":"60" 
       }
   
     
