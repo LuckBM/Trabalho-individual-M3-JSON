@@ -1,55 +1,55 @@
 {
-    "Locais": [
+    "locais": [
       {
         "id": 1,
-        "Estado": "SP",
-        "Municipio": "São Paulo"
+        "estado": "sp",
+        "municipio": "são Paulo"
       },
        {
         "id": 2,
-        "Estado": "SP",
-        "Municipio": "Sorocaba"
+        "estado": "sp",
+        "municipio": "sorocaba"
       },
        {
         "id": 3,
-        "Estado": "RJ",
-        "Municipio": "Rio de Janeiro"
+        "estado": "rj",
+        "Mmunicipio": "rio de janeiro"
       },
        {
         "id": 4,
-        "Estado": "RJ",
-        "Municipio": "Niteroi"
+        "estado": "rj",
+        "municipio": "niteroi"
       }
     ],
   
     
     
     
-    "Preço": [
+    "preco": [
       {
         "id": 1,
-        "Sala": "N 3D",
-        "Preço":"R$ 30,00",
-        "Local": "SP São Paulo"
+        "sala": "n 3d",
+        "valor":"R$ 30,00",
+        "local": "sp são paulo"
       },
       
        {
-        "id": 1,
-        "Sala": "G 3D",
-        "Preço":"R$ 40,00",
-        "Local": "SP São Paulo"
+        "id": 2,
+        "sala": "g 3d",
+        "valor":"R$ 40,00",
+        "local": "sp são paulo"
       },
        {
         "id": 1,
-        "Sala": "N 3D",
-        "Preço":"R$ 25,00",
-        "Local": "SP Sorocaba"
+        "sala": "n 3d",
+        "valor":"R$ 25,00",
+        "local": "sp sorocaba"
       },
        {
         "id": 1,
-        "Sala": "G 3D",
-        "Preço":"R$ 30,00",
-        "Local": "RJ Rio de Janeiro"
+        "sala": "g 3d",
+        "valor":"R$ 30,00",
+        "local": "rj rio de janeiro"
       }
       
       
@@ -58,33 +58,33 @@
     
     
     
-    "Catalogo": [
+    "catalogo": [
       {
         "id": 1,
         "titulo": "Filme 1",
-         "Sala": "G 3D",
-        "Preço":"R$ 30,00"
+         "sala": "G 3D",
+        "preço":"R$ 30,00"
       },
       
        {
         "id": 2,
         "titulo": "Filme 2",
-         "Sala": "N 3D",
-        "Preço":"R$ 25,00"
+         "sala": "N 3D",
+        "sreço":"R$ 25,00"
       },
       
        {
         "id": 3,
         "titulo": "Filme 3",
-         "Sala": "M 2D",
-        "Preço":"R$ 35,00"
+         "sala": "M 2D",
+        "preço":"R$ 35,00"
       },
       
        {
         "id": 4,
         "titulo": "Filme 4",
-         "Sala": "VIP 3D",
-        "Preço":"R$ 60,00" 
+         "sala": "VIP 3D",
+        "preço":"R$ 60,00" 
       }
   
     
